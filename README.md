@@ -6,8 +6,8 @@ ___
 
  **[код](https://github.com/saytkhanov/base-of-speakers-app)**
  **[демо](https://speakers-mern.herokuapp.com/)**
- <div> 
-<img alt="React" src="https://github.com/saytkhanov/base-of-speakers-app/blob/main/1.gif/badge/?style=for-the-badge />
+ <div width="100px"> 
+![gif](https://github.com/saytkhanov/base-of-speakers-app/blob/main/1.gif)
 </div>
                       
                       
