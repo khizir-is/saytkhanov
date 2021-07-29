@@ -1,5 +1,5 @@
 
-## Приветствую всех на мой Git-странице, с вами Шамиль:)
+## Приветствую всех на моем GitHub, с вами Шамиль:)
 ___
 ### Связаться со мной:
 [![Telegram](https://img.shields.io/badge/Telegram-red?style=social&logo=telegram)](https://t.me/saythanov)
