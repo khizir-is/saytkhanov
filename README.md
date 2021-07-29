@@ -1,6 +1,12 @@
 
 ## Приветствую всех на мой Git-странице, с вами Шамиль:)
 ___
+### Связаться со мной:
+[![Telegram](https://img.shields.io/badge/Telegram-red?style=social&logo=telegram)](https://t.me/saythanov)
+[![Instagram](https://img.shields.io/badge/Instagram-red?style=social&logo=instagram)](https://www.instagram.com/saythanov.s/)
+[![mail.ru](https://img.shields.io/badge/saythanov@2014mail.ru-red?style=social&logo=mail.ru)](#)
+[![mail.ru](https://img.shields.io/badge/live:saythanov2014-red?style=social&logo=skype)](#)
+___
 ### Мои проекты:
 #### Командный проект База дикторов
 
@@ -67,8 +73,3 @@ ___
 ### в общем всегда интересуюсь и готов изучать что-то новое
 
 
-### Связаться со мной:
-[![Telegram](https://img.shields.io/badge/Telegram-red?style=social&logo=telegram)](https://t.me/saythanov)
-[![Instagram](https://img.shields.io/badge/Instagram-red?style=social&logo=instagram)](https://www.instagram.com/saythanov.s/)
-[![mail.ru](https://img.shields.io/badge/saythanov@2014mail.ru-red?style=social&logo=mail.ru)](#)
-[![mail.ru](https://img.shields.io/badge/live:saythanov2014-red?style=social&logo=skype)](#)
