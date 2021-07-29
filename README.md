@@ -5,11 +5,7 @@ ___
 #### Командный проект База дикторов
 
  **[код](https://github.com/saytkhanov/base-of-speakers-app)**
- **[демо](https://speakers-mern.herokuapp.com/)**
- <div width="100px"> 
-![gif](https://github.com/saytkhanov/base-of-speakers-app/blob/main/1.gif)
-</div>
-                      
+ **[демо](https://speakers-mern.herokuapp.com/)**                   
                       
 #### Индивидуальный проект для студентов
  **[код](https://github.com/saytkhanov/students-bootcamp-app)**
