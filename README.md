@@ -6,6 +6,11 @@ ___
 
  **[код](https://github.com/saytkhanov/base-of-speakers-app)**
  **[демо](https://speakers-mern.herokuapp.com/)**
+ <div> 
+<img alt="React" src="https://github.com/saytkhanov/base-of-speakers-app/blob/main/1.gif/badge/?style=for-the-badge />
+</div>
+                      
+                      
 #### Индивидуальный проект для студентов
  **[код](https://github.com/saytkhanov/students-bootcamp-app)**
  **[демо](https://students-mern.herokuapp.com/)**
