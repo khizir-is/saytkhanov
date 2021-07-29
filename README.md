@@ -50,6 +50,8 @@ ___
 ![fuse-js](https://img.shields.io/badge/-fuse--JS-yellow?style=for-the-badge)
 ![styled-components](https://img.shields.io/badge/-styled--components-green?style=for-the-badge)
 
+#### имею опыт адаптивной верстки
+
 
 ### Основные методологии, которые я использую:
 
@@ -61,6 +63,7 @@ ___
 ![typescript](https://img.shields.io/badge/-typescript-green?style=for-the-badge)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-black?style=for-the-badge)
 ![Fastify](https://img.shields.io/badge/-Fastify-yellow?style=for-the-badge)
+#### полностью улучшить и освоить адаптивную и кроссбраузерную верстку
 ### в общем всегда интересуюсь и готов изучать что-то новое
 
 
