@@ -20,7 +20,7 @@ ___
  **[код](https://github.com/saytkhanov/links-mern-app)**
  **[демо](https://links-mern.herokuapp.com/)**
 ___
-### Основные библиотеки, которые я использую:
+### Основные технологии, которые я использую:
 <div> 
 <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=white" />
 <img alt="Mongo-DB" src="https://img.shields.io/badge/-Mongo_DB-red?style=for-the-badge&logo=MongoDB&logoColor=black" />
