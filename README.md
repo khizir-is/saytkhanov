@@ -8,7 +8,7 @@ ___
 [![mail.ru](https://img.shields.io/badge/live:saythanov2014-red?style=social&logo=skype)](#)
 ___
 ### Мои проекты:
-#### Командный проект base-speakers-ap
+#### Командный проект base-speakers-app
 
  **[код](https://github.com/saytkhanov/base-of-speakers-app)**
  **[демо](https://speakers-mern.herokuapp.com/)**                   
