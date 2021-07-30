@@ -8,15 +8,15 @@ ___
 [![mail.ru](https://img.shields.io/badge/live:saythanov2014-red?style=social&logo=skype)](#)
 ___
 ### Мои проекты:
-#### Командный проект База дикторов
+#### Командный проект base-speakers-ap
 
  **[код](https://github.com/saytkhanov/base-of-speakers-app)**
  **[демо](https://speakers-mern.herokuapp.com/)**                   
                       
-#### Индивидуальный проект для студентов
+#### Индивидуальный проект students-app
  **[код](https://github.com/saytkhanov/students-bootcamp-app)**
  **[демо](https://students-mern.herokuapp.com/)**
-#### Приложение сокращение ссылок
+#### Приложение links-mern-app
  **[код](https://github.com/saytkhanov/links-mern-app)**
  **[демо](https://links-mern.herokuapp.com/)**
 ___
