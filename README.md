@@ -67,8 +67,11 @@ ___
 
 ### Чтобы я хотел изучить в ближайшее время:
 ![typescript](https://img.shields.io/badge/-typescript-green?style=for-the-badge)
+![MobX](https://img.shields.io/badge/-Fastify-yellow?style=for-the-badge)
+![Vue.js](https://img.shields.io/badge/-Fastify-pink?style=for-the-badge)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-black?style=for-the-badge)
 ![Fastify](https://img.shields.io/badge/-Fastify-yellow?style=for-the-badge)
+![NextJS](https://img.shields.io/badge/-Fastify-green?style=for-the-badge)
 #### полностью улучшить и освоить адаптивную и кроссбраузерную верстку
 ### в общем всегда интересуюсь и готов изучать что-то новое
 
